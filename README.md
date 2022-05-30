@@ -68,7 +68,7 @@ C                   |                 |                                   |
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jessicacintra-eng&show_icons=true&theme=ok"/> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicacintra-eng&layout=compact&theme=ok"/>  
 
-  ![Snake animation](https://github.com/ytallobruno/Jessicacintra-eng/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
+  ![Snake animation](https://github.com/Jessicacintra-eng/Jessicacintra-eng/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
  
 </div>
 
