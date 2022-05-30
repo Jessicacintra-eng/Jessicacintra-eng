@@ -1,44 +1,76 @@
-### A Engenheira bioquímica virou DEV, eu sou a Jessica Cintra e esse é meu portifólio
-<div align="center">
-  <a href="https://github.com/Jessicacintra-eng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessicacintra-eng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicacintra-eng&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jessica-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jessica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jessica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<div>
+
+![undefined - Imgur](https://user-images.githubusercontent.com/79220648/171049333-b3fd6631-fdca-40fc-b763-04fb92de1c27.gif)
+
+
 </div>
   
-  ##
+<div id="inicio" align="center">
+&#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;
+<a href="#contato">Contato</a>&nbsp;&nbsp;
+<a href="#aprendizado">O que estou estudando</a>&nbsp;&nbsp;
+<a href="#projetos">Projetos Importantes</a>&nbsp;&nbsp;
+<a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;
+<a href="#status">GitHub Status</a>&nbsp;&nbsp;&#9734;
+</div>
+
+<h2 id="sobre">A Engenheira Bioquímica virou Dev, seja bem vinde👋 </h2>
+
+Me chamo Jessica, mas pode me chamar de Jess. Sou de Curitiba, Paraná, formada em Engenharia de Bioprocessos e Biotecnologia e atualmente faço parte da formação em Desenvolvimento Web Fullstack pela Resilia Educação, como parte do programa Códigos do amanhã, de uma parceria EBANX.<br>
+Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node JS, MySQL, React JS, entre outras em meus projetos para poder assim, fixar melhor meus conhecimentos.
+
+
+<h2 id="contato">Entre em contato 📞</h2>
+<div align="">
  
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Jessicacintra-eng/Jessicacintra-eng/blob/output/github-contribution-grid-snake.svg)
- 
+   [![GMAIL](https://img.shields.io/badge/jessica.cintra0712@gmail.com-004f93?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessica.cintra0712@gmail.com)](mailto:jessica.cintra0712@gmail.com)
+ <br>
+   [![LINKEDIN](https://img.shields.io/badge/-Jessica%20Cintra-004f93?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-cintra/)](https://www.linkedin.com/in/jessica-cintra/)
+ <br>
+
 </div>
 
 
-Here are some ideas to get you started:
+<h2 id="aprendizado"> Tecnologias que.. 💻 </h2>
 
-- 🔭 Hoje participo da formação em Desenvolvimento Web Fullstack da Resilia Educação em parceria com o EBANX, no programa Códigos do amanhã
+POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS MAS IREI VOLTAR | TENHO INTERESSE
+:------:            | :------:        | :------:                          | :------:
+HTML                | JavaScript      | JQuery                            | Next.JS
+CSS                 | React.JS        | MongoDB                           | TailWind CSS
+Bootstrap           | Express.JS      | MySQL                             | Dart
+Git                 | Node.JS         | Docker                            | Java
+C                   |                 |                                   |
 
-- 📚 Estou estudando as seguintes tecnologias:
-  -> MySQL
-  -> NoSQL 
-  -> React Native
-- 😄 Pronomes: Ela/Dela
+
+<h2 id="projetos">  Projetos mais importantes 📌 </h2>
+
+- [x] [Projeto Final Módulo 2 - Lançamento de Projeto: FRONTENDERS](https://github.com/Jessicacintra-eng/FrontEnders) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
+- [x] [APOD - Astronomy Picture Of the Day- SPACEPICS](https://github.com/Jessicacintra-eng/Space-pics) (HTML, CSS, JavaScript, JQuery, API, Git)
+- [x] [Cifrador- Deciframe](https://github.com/Jessicacintra-eng/DecifraMe) (HTML, CSS, JavaScript, Git)
+- [x] [Game of beer](https://github.com/Jessicacintra-eng/Game-of-Beer) (HTML, CSS, JavaScript, Git)
 
 
-- ⚡ Fun fact: Sou sommelier de Cervejas diplomada e LGBT 🏳‍🌈
+<h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
+
+- Me formei em Engenharia de Bioprocessos e Biotecnologia no ano de 2018
+- Faço parte da turma 16 WebDev Full Stack na Resilia
+- Amo conhecer e aprender coisas novas
+- Sou sommelier de Cervejas (diplomada) e LGBT 🏳‍🌈
+
+
+<h2 id="status"> Meus status no Github 📈 </h2>
+ 
+<div align="center">
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Jessicacintra-eng&margin-w=5&margin-h=5&no-frame=true)
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jessicacintra-eng&show_icons=true&theme=ok"/> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicacintra-eng&layout=compact&theme=ok"/>  
+
+  ![Snake animation](https://github.com/ytallobruno/Jessicacintra-eng/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
+ 
+</div>
+
+<div align="center">
+  &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
+</div>
