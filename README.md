@@ -17,7 +17,9 @@
 
 <h2 id="sobre">A Engenheira Bioquímica virou Dev, seja bem vinde👋 </h2>
 
-Me chamo Jessica, mas pode me chamar de Jess. Sou de Curitiba, Paraná, sou desenvolvedora FrontEnd na IBM (ANGULAR), cursando Tecnologia em Análise e Desenvolvimento de Sistemas, formada em Engenharia de Bioprocessos e Biotecnologia, sou Desenvolvovedora Web Fullstack pela Resilia Educação, como parte do programa Códigos do amanhã em parceria com o EBANX.<br>
+Me chamo Jessica, mas pode me chamar de Jess. Sou de Curitiba, Paraná, sou desenvolvedora FrontEnd na IBM (ANGULAR/REACT). Certificada AZ-900 e em processo para AZ-204.
+<br>
+Tecnóloga em Análise e Desenvolvimento de Sistemas, formada em Engenharia de Bioprocessos e Biotecnologia, sou Desenvolvovedora Web Fullstack pela Resilia Educação, como parte do programa Códigos do amanhã em parceria com o EBANX.<br>
 Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node JS, MySQL, React JS, entre outras em meus projetos para poder assim, fixar melhor meus conhecimentos.
 
 
